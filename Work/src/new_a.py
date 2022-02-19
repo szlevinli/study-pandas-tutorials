@@ -59,8 +59,8 @@ def get_data_path(p: str) -> Path:
     return Path.cwd() / p
 
 
-def get_lp_path(p: str) -> Path:
-    return Path.cwd() / p
+def get_lp_path(dp: Path, p: str) -> Path:
+    return dp / p
 
 
 if __name__ == '__main__':
