@@ -1,7 +1,12 @@
 {
   "words": [
+    "astype",
     "deduplication",
+    "fillna",
     "iloc",
-    "pyplot"
+    "inplace",
+    "isin",
+    "pyplot",
+    "untermination"
   ]
 }
