@@ -2,6 +2,7 @@
   "words": [
     "astype",
     "deduplication",
+    "dtypes",
     "fillna",
     "iloc",
     "inplace",
